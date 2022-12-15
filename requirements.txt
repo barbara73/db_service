@@ -1,0 +1,12 @@
+python-dotenv
+sqlalchemy
+cryptography
+
+
+pytest
+pytest-cov
+pylint
+flake8
+bandit
+pdoc
+lazy-object-proxy==1.4.0
